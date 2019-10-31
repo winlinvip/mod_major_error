@@ -1,5 +1,5 @@
 package mod_major_error
 
 func Version() string {
-	return "mme/5.0.0"
+	return "mme/6.0.0"
 }
